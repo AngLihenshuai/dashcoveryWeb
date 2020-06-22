@@ -1,2 +1,2 @@
-# dashcoveryWeb
-The website for Dashcover App
+# dishcoveryWeb
+The website for Dishcover App
