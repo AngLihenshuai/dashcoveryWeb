@@ -1,0 +1,228 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"text",
+				"text-center"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jdcjd/Documents/GitHub/Plater/css/style.css",
+		"/C/Users/jdcjd/Documents/GitHub/Plater/index.html",
+		"/C/Users/jdcjd/Documents/GitHub/Plater/README.md",
+		"/C/Users/jdcjd/Documents/GitHub/Plater/js/script.js",
+		"/C/Users/jdcjd/Documents/GitHub/Plater/image/screenshot-img-1.png",
+		"/C/Users/jdcjd/Documents/GitHub/Plater/image/img-e.png",
+		"/C/Users/jdcjd/Documents/GitHub/dashcoveryWeb/index.html",
+		"/C/Users/jdcjd/Documents/GitHub/dashcoveryWeb/css/style.css",
+		"/C/Users/jdcjd/Documents/GitHub/dashcoveryWeb/Plater.html",
+		"/C/Users/jdcjd/Desktop/index.html",
+		"/C/Users/jdcjd/Documents/GitHub/dashcoveryWeb/index-s3.html",
+		"/C/Users/jdcjd/Documents/GitHub/dashcoveryWeb/image/smartmockups_kcr1fmga.png",
+		"/C/Users/jdcjd/Documents/GitHub/dashcoveryWeb/image/Smaller.png",
+		"/C/Users/jdcjd/Documents/GitHub/dashcoveryWeb/index-s4.html",
+		"/C/Users/jdcjd/Documents/GitHub/dashcoveryWeb/image/favicon.png",
+		"/C/Users/jdcjd/Downloads/smartmockups_kcr1fmga.png",
+		"/C/Users/jdcjd/Documents/GitHub/dashcoveryWeb/Documentation/assets/css/bootstrap.css",
+		"/C/Users/jdcjd/Documents/GitHub/dashcoveryWeb/rappix/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"youtube",
+			"img",
+			"how",
+			"#how",
+			"project detail",
+			"project",
+			"competitive",
+			"premium",
+			"project details",
+			"project Details",
+			"overview",
+			"3",
+			"phone",
+			"right",
+			"get it now",
+			"class=\"col-md-3 col-sm-6\"",
+			"col-md-3 col-sm-6",
+			"text",
+			"light",
+			"#fff",
+			"pricing",
+			"badge",
+			"fa",
+			"meta",
+			"<hr>",
+			"hr",
+			"h1",
+			"woff",
+			"intro-text",
+			"inner",
+			".center",
+			"center",
+			".center {\n  display: block;\n  margin-left: auto;\n  margin-right: auto;\n  width: 50%;\n}",
+			"pricing-table",
+			"60px",
+			"img",
+			"icon",
+			"screenshothome"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

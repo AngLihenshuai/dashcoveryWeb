@@ -1,2 +1,1 @@
-# dishcoveryWeb
-The website for Dishcover App
+This is for plater website
