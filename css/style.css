@@ -464,7 +464,7 @@ p.large {
 
 .grdnt-pink:not(.overly) {
     background-image: -webkit-linear-gradient(45deg, #ffc7bf 0, #ffc7bf 51%, #ffc7bf 100%);
-    background-image: linear-gradient(45deg, #ffc8ba 0, #ffc8ba 51%, #ffc8ba 100%)
+    background-image: linear-gradient(45deg, #ffbfa6 0, #ffbfa6 51%, #ffbfa6 100%)
 }
 
 .grdnt-green:not(.overly) {
@@ -908,7 +908,7 @@ div[class*=grdnt-] .list-style li:before {
 }
 
 .clr-red {
-    color: #d9503b
+    color: #ed3e44
 }
 
 .clr-cyan {
